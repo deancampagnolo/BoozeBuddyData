@@ -1,5 +1,5 @@
 import csv
-FILE_NAME = "4Aaron"
+FILE_NAME = "test6"
 
 def main():
     file_object = open(FILE_NAME + ".csv", "wb")
